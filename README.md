@@ -1,8 +1,9 @@
-Hi there, I'm [Harsh Singh]! 👋
+#Hi there, I'm [Harsh Singh]! 👋
 
 Welcome to my GitHub profile! I'm a Data Science enthusiast, passionate about turning data into meaningful insights. Currently on a journey of continuous learning, I'm exploring various aspects of data science, machine learning, and artificial intelligence.
 
 🔭 What I’m working on
+
 Learning: Enhancing my skills in Python, SQL, ML, AI and Power BI
 
 Projects: Building my portfolio with small data science projects.
