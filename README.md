@@ -30,7 +30,7 @@ How I approach learning and project work.
 
 📫 How to reach me
 
-LinkedIn: -
+LinkedIn: -linkedin.com/in/harsh-singh-a39390224
 
 Email: harshofficial2527@gmail.com
 
